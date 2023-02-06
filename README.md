@@ -37,18 +37,15 @@ Mandando esse código na URL do navegador: localhost:8080/url/xn54xsndbm - Você
 --------------------------------------------------------------------
 
 …ou crie um novo repositório na linha de comando
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/LineCaleffi/URLEncurtada.git
-git push -u origin main
-
-
-
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin https://github.com/LineCaleffi/URLEncurtada.git
+- git push -u origin main
 
 
 …ou envie um repositório existente a partir da linha de comando
-git remote add origin https://github.com/LineCaleffi/URLEncurtada.git
-git branch -M main
-git push -u origin main
+- git remote add origin https://github.com/LineCaleffi/URLEncurtada.git
+- git branch -M main
+- git push -u origin main
